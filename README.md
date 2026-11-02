@@ -1,0 +1,2 @@
+# JapaneseSubtitlesCollection
+中国ドラマの日本語字幕集
